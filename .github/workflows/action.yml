@@ -1,1 +1,7 @@
 
+name: 'my love'
+ 
+on:
+  push:
+  schedule:
+    - cron: '0 22 * * *'
