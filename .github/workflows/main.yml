@@ -32,5 +32,5 @@ jobs:
           subject: 天气预报 (${{env.REPORT_DATE}})
           body: file://result.html
           to: 1021919623@qq.com
-          from: your father
+          from: 最后一次
           content_type: text/html
